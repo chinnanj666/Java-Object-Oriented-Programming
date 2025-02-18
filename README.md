@@ -1,6 +1,6 @@
 # Java Object-Oriented Programming (OOP) Real-Time Applications
 
-This repository contains a collection of Java programs that demonstrate the practical usage of Object-Oriented Programming (OOP) concepts in real-world applications. The code is organized into various packages, each focusing on different OOP principles such as abstraction, inheritance, polymorphism, encapsulation, and more.
+This repository contains a collection of Java programs that demonstrate the prractical usage of Object-Oriented Programming (OOP) concepts in real-world applications. The code is organized into various packages, each focusing on different OOP principles such as abstraction, inheritance, polymorphism, encapsulation, and more.
 
 ## Table of Contents
 
